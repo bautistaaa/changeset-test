@@ -1,5 +1,5 @@
-import { Button } from "@acme/core";
-import { useIsomorphicLayoutEffect } from "@acme/utils";
+import { Button } from "@trash_dev/core";
+import { useIsomorphicLayoutEffect } from "@trash_dev/utils";
 
 export default function Docs() {
   useIsomorphicLayoutEffect(() => {

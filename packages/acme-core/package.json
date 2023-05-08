@@ -1,5 +1,5 @@
 {
-  "name": "@acme/core",
+  "name": "@trash_dev/core",
   "version": "0.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -16,7 +16,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@acme/tsconfig": "*",
+    "@trash_dev/tsconfig": "*",
     "eslint": "^7.32.0",
     "eslint-config-acme": "*",
     "@types/react": "^18.2.0",

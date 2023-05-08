@@ -1,5 +1,5 @@
 {
-  "name": "@acme/docs",
+  "name": "@trash_dev/docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,14 +10,14 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "@acme/core": "*",
-    "@acme/utils": "*",
+    "@trash_dev/core": "*",
+    "@trash_dev/utils": "*",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@acme/tsconfig": "*",
+    "@trash_dev/tsconfig": "*",
     "@types/node": "^17.0.12",
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
