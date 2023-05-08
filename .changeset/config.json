@@ -4,7 +4,7 @@
   "changelog": "@changesets/cli/changelog",
   "commit": false,
   "fixed": [],
-  "linked": [],
+  "linked": [["@trash_dev/core", "@trash_dev/utils"]],
   "access": "public",
   "updateInternalDependencies": "patch",
   "ignore": ["@trash_dev/docs"]
